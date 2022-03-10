@@ -18,6 +18,8 @@
 		"backgrounds":{
 			"quad_rounded": "gsp:models/sign/quad_round.fmf",
 			"circle": "gsp:models/sign/circle.fmf",
+			"circle_wide": "gsp:models/sign/circle_wide.fmf",
+			"circle_thin": "gsp:models/sign/circle_thin.fmf",
 			"triangle_up": "gsp:models/sign/triangle_up.fmf",
 			"triangle_down": "gsp:models/sign/triangle_down.fmf"
 		},

@@ -1,6 +1,8 @@
 fvtm.sign_library.gsp=Generic Signs Pack
 fvtm.traffic_sign.background.gsp:quad_rounded=Quad (Rounded Edges)
-fvtm.traffic_sign.background.gsp:circle=Circle Base
+fvtm.traffic_sign.background.gsp:circle=Circle
+fvtm.traffic_sign.background.gsp:circle_wide=Circle Wide Border
+fvtm.traffic_sign.background.gsp:circle_thin=Circle Thin Border
 fvtm.traffic_sign.background.gsp:triangle_up=Triangle Base (Up)
 fvtm.traffic_sign.background.gsp:triangle_down=Triangle Base (Down)
 fvtm.traffic_sign.component.gsp:arrow=Arrow
