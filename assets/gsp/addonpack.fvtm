@@ -1,5 +1,5 @@
 {
-	"RegistryName": "gsp",
+	"ID": "gsp",
 	"Name": "Generic Signs Pack",
 	"URL": "http://fexcraft.net/download?modid=addon-gsp",
 	"UpdateID": "addon-gsp",
@@ -9,34 +9,5 @@
 	"Authors": [
 		"Ferdinand (FEX___96)"
 	],
-	"Version": "1.0.0",
-	"GenerateLang": false,
-	"GenerateItemJson": false,
-	"GenerateItemIcon": false,
-	"CreativeTabs": [],
-	"TrafficSigns":{
-		"backgrounds":{
-			"quad_rounded": "gsp:models/sign/quad_round.fmf",
-			"circle": "gsp:models/sign/circle.fmf",
-			"circle_wide": "gsp:models/sign/circle_wide.fmf",
-			"circle_thin": "gsp:models/sign/circle_thin.fmf",
-			"triangle_up": "gsp:models/sign/triangle_up.fmf",
-			"triangle_down": "gsp:models/sign/triangle_down.fmf"
-		},
-		"components":{
-			"arrow": "gsp:models/sign/comp_arrow.obj",
-			"autobahn_sign": "gsp:models/sign/autobahn_sign.fmf",
-			"autobahn_number_sign": "gsp:models/sign/autobahn_number_sign.fmf",
-			"autobahn_number_sign1": "gsp:models/sign/autobahn_number_sign1.fmf"
-		},
-		"fonts":{
-			"generic": "gsp:models/sign/generic_sign_font.obj"
-		},
-		"presets":{
-			"example0": {"backgrounds":[{"base":1,"border_bot":1,"border_left":1,"border_right":1,"border_top":1,"comp":"gsp:quad_rounded","rgb0":16768512,"rgb1":0,"scale_x":2.5,"type":"BASE"}],"components":[{"comp":"gsp:arrow","rgb0":0,"rot":-90,"type":"COMPONENT","xoff":18.0,"yoff":-6.0,"zoff":1},{"comp":"gsp:autobahn_sign","rgb0":15204096,"scale_x":0.25,"scale_y":0.25,"type":"COMPONENT","xoff":8.5,"yoff":-6.0,"zoff":2},{"comp":"gsp:arrow","rgb0":0,"rot":-135,"type":"COMPONENT","xoff":18.0,"zoff":1},{"comp":"gsp:arrow","rgb0":0,"rot":-45,"type":"COMPONENT","xoff":18.0,"yoff":5.0,"zoff":1},{"comp":"gsp:autobahn_number_sign","rgb0":33279,"type":"COMPONENT","xoff":11.0,"yoff":-6.0,"zoff":1}],"fonts":[{"comp":"gsp:generic","rgb0":0,"text":"Neuberge","type":"FONT","xoff":-18.0,"yoff":-6.0,"zoff":1},{"comp":"gsp:generic","rgb0":0,"text":"Altneudorf","type":"FONT","xoff":-18.0,"zoff":1},{"comp":"gsp:generic","rgb0":0,"text":"Leerhafen","type":"FONT","xoff":-18.0,"yoff":6.0,"zoff":1},{"comp":"gsp:generic","scale_x":0.875,"scale_y":0.875,"text":"5","type":"FONT","xoff":11.0,"yoff":-6.0,"zoff":2}]},
-			"example1": {"backgrounds":[{"base":1,"border_bot":1,"border_left":1,"border_right":1,"border_top":1,"comp":"gsp:quad_rounded","rgb0":40447,"scale_x":4.0,"type":"BASE"}],"components":[{"comp":"gsp:arrow","rot":-90,"scale_y":1.5,"type":"COMPONENT","yoff":6.0,"zoff":1},{"comp":"gsp:arrow","rot":-90,"scale_y":1.5,"type":"COMPONENT","xoff":-25.0,"yoff":6.0,"zoff":1},{"comp":"gsp:arrow","rot":-90,"scale_y":1.5,"type":"COMPONENT","xoff":25.0,"yoff":6.0,"zoff":1},{"comp":"gsp:autobahn_number_sign","rgb0":40447,"type":"COMPONENT","xoff":-13.0,"yoff":6.0,"zoff":1},{"comp":"gsp:autobahn_number_sign","rgb0":40447,"type":"COMPONENT","xoff":14.0,"yoff":6.0,"zoff":1}],"fonts":[{"centered":1,"comp":"gsp:generic","scale_x":1.25,"scale_y":1.25,"text":"Frankfurt am Rhein","type":"FONT","yoff":-6.0,"zoff":1},{"centered":1,"comp":"gsp:generic","scale_x":1.25,"scale_y":1.25,"text":"Baerlin    Altneuburg","type":"FONT","yoff":-1.0,"zoff":1},{"centered":1,"comp":"gsp:generic","scale_x":0.875,"scale_y":0.875,"text":"9","type":"FONT","xoff":-13.0,"yoff":6.0,"zoff":2},{"comp":"gsp:generic","scale_x":0.875,"scale_y":0.875,"text":"9","type":"FONT","xoff":14.0,"yoff":6.0,"zoff":2}]},
-			"example2": {"backgrounds":[{"base":1,"border_bot":1,"border_left":1,"border_right":1,"border_top":1,"comp":"gsp:quad_rounded","rgb0":40447,"scale_x":2.0,"type":"BASE","xoff":-8.0}],"components":[{"comp":"gsp:arrow","rot":-45,"scale_x":2.0,"scale_y":1.5,"type":"COMPONENT","xoff":-20.0,"zoff":1},{"comp":"gsp:autobahn_number_sign","rgb0":40447,"type":"COMPONENT","xoff":-8.0,"yoff":6.0,"zoff":1}],"fonts":[{"comp":"gsp:generic","text":"neuwalde","type":"FONT","xoff":-13.0,"yoff":-5.0,"zoff":1},{"comp":"gsp:generic","text":"- ost","type":"FONT","xoff":-12.0,"yoff":-1.0,"zoff":1},{"comp":"gsp:generic","scale_x":0.875,"scale_y":0.875,"text":"4","type":"FONT","xoff":-8.0,"yoff":6.0,"zoff":2}]},
-			"example3": {"backgrounds":[{"base":1,"border_bot":0,"border_left":1,"border_right":1,"border_top":1,"comp":"gsp:quad_rounded","rgb0":8487297,"rgb1":7929600,"scale_x":2.0,"type":"BASE"},{"base":1,"border_bot":1,"border_left":1,"border_right":1,"border_top":0,"comp":"gsp:quad_rounded","rgb0":5987163,"rgb1":5733119,"scale_x":2.0,"scale_y":0.5,"type":"BASE","yoff":12.0}],"components":[{"comp":"gsp:arrow","rgb0":16617344,"rgb1":16718592,"type":"COMPONENT","xoff":14.0,"yoff":-6.0,"zoff":1},{"comp":"gsp:autobahn_sign","scale_x":0.5,"scale_y":0.4375,"type":"COMPONENT","xoff":13.0,"zoff":1},{"comp":"gsp:autobahn_number_sign","rgb0":26367,"type":"COMPONENT","xoff":12.0,"yoff":5.0,"zoff":1}],"fonts":[{"comp":"gsp:generic","rgb0":15204096,"rgb1":12632256,"rot":18,"text":"test text","type":"FONT","xoff":-15.0,"yoff":-6.0,"zoff":1},{"centered":1,"comp":"gsp:generic","scale_x":1.625,"scale_y":1.5625,"text":"text 2","type":"FONT","xoff":-6.0,"yoff":13.0,"zoff":1}]}
-		}
-	}
+	"Version": "2.0.0"
 }
