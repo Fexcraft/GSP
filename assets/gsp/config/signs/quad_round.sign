@@ -1,0 +1,12 @@
+{
+    "ID": "quad_round",
+    "Name": "Quad Sign with Rounded Corners",
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/quad_round.fmf",
+    "Base": true,
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "base": "#ffffff",
+        "border": "#ffffff"
+    }
+}
