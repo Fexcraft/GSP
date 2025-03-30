@@ -1,0 +1,15 @@
+{
+    "ID": "arrow",
+    "Name": "Generic Arrow",
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/com_arrow.fmf",
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "color": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "group0 fvtm:rgb_channel color"
+        ]
+    }
+}
