@@ -1,0 +1,15 @@
+{
+    "ID": "autobahn",
+    "Name": "Autobahn Sign",
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/autobahn_sign.fmf",
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "color": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "group0 fvtm:rgb_channel color"
+        ]
+    }
+}
