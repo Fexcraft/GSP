@@ -1,0 +1,12 @@
+{
+    "ID": "text",
+    "Name": "Generic Text",
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/text.obj",
+    "Text": true,
+    "ModelData":{
+        "Programs":[
+            "text fvtm:sign_text"
+        ]
+    }
+}
