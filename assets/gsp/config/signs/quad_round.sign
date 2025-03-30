@@ -10,12 +10,23 @@
         "border": "#ffffff"
     },
     "ModelData":{
+        "Transforms":[
+            "rotate -90 0 1 0"
+        ],
         "Programs":[
             "base fvtm:rgb_channel base",
             "top fvtm:rgb_channel base",
             "bot fvtm:rgb_channel base",
             "left fvtm:rgb_channel base",
             "righ fvtm:rgb_channel base",
+            "corner_tl fvtm:rgb_channel base",
+            "corner_tr fvtm:rgb_channel base",
+            "corner_br fvtm:rgb_channel base",
+            "corner_bl fvtm:rgb_channel base",
+            "corner_tll fvtm:rgb_channel base",
+            "corner_trl fvtm:rgb_channel base",
+            "corner_brl fvtm:rgb_channel base",
+            "corner_bll fvtm:rgb_channel base"
             "base fvtm:sign_base",
             "top fvtm:sign_border 0",
             "left fvtm:sign_border 1",
@@ -24,15 +35,31 @@
             "top_line fvtm:sign_border 0",
             "left_line fvtm:sign_border 1",
             "righ_line fvtm:sign_border 2",
-            "bot_line fvtm:sign_border 3"
-            "top fvtm:sign_scaled_offset true false 0 0.5"
-            "left fvtm:sign_scaled_offset false true 0.5 0"
-            "righ fvtm:sign_scaled_offset false true -0.5 0"
-            "bot fvtm:sign_scaled_offset true false 0 -0.5"
-            "top_line fvtm:sign_scaled_offset true false 0 0.5"
-            "left_line fvtm:sign_scaled_offset false true 0.5 0"
-            "righ_line fvtm:sign_scaled_offset false true -0.5 0"
-            "bot_line fvtm:sign_scaled_offset true false 0 -0.5"
+            "bot_line fvtm:sign_border 3",
+            "top fvtm:sign_scaled_offset true false 0 0.5",
+            "left fvtm:sign_scaled_offset false true 0.5 0",
+            "righ fvtm:sign_scaled_offset false true -0.5 0",
+            "bot fvtm:sign_scaled_offset true false 0 -0.5",
+            "top_line fvtm:sign_scaled_offset true false 0 0.5",
+            "left_line fvtm:sign_scaled_offset false true 0.5 0",
+            "righ_line fvtm:sign_scaled_offset false true -0.5 0",
+            "bot_line fvtm:sign_scaled_offset true false 0 -0.5",
+            "corner_tl fvtm:sign_corner 0",
+            "corner_tr fvtm:sign_corner 1",
+            "corner_br fvtm:sign_corner 2",
+            "corner_bl fvtm:sign_corner 3",
+            "corner_tll fvtm:sign_corner 0",
+            "corner_trl fvtm:sign_corner 1",
+            "corner_brl fvtm:sign_corner 2",
+            "corner_bll fvtm:sign_corner 3",
+            "corner_tl fvtm:sign_scaled_offset true true 0.125 0.125",
+            "corner_tr fvtm:sign_scaled_offset true true -0.125 0.125",
+            "corner_br fvtm:sign_scaled_offset true true -0.125 -0.125",
+            "corner_bl fvtm:sign_scaled_offset true true 0.125 -0.125",
+            "corner_tll fvtm:sign_scaled_offset true true 0.125 0.125",
+            "corner_trl fvtm:sign_scaled_offset true true -0.125 0.125",
+            "corner_brl fvtm:sign_scaled_offset true true -0.125 -0.125",
+            "corner_bll fvtm:sign_scaled_offset true true 0.125 -0.125"
         ]
     }
 }
