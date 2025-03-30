@@ -8,5 +8,31 @@
     "ColorChannels":{
         "base": "#ffffff",
         "border": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "base fvtm:rgb_channel base",
+            "top fvtm:rgb_channel base",
+            "bot fvtm:rgb_channel base",
+            "left fvtm:rgb_channel base",
+            "righ fvtm:rgb_channel base",
+            "base fvtm:sign_base",
+            "top fvtm:sign_border 0",
+            "left fvtm:sign_border 1",
+            "righ fvtm:sign_border 2",
+            "bot fvtm:sign_border 3",
+            "top_line fvtm:sign_border 0",
+            "left_line fvtm:sign_border 1",
+            "righ_line fvtm:sign_border 2",
+            "bot_line fvtm:sign_border 3"
+            "top fvtm:sign_scaled_offset true false 0 0.5"
+            "left fvtm:sign_scaled_offset false true 0.5 0"
+            "righ fvtm:sign_scaled_offset false true -0.5 0"
+            "bot fvtm:sign_scaled_offset true false 0 -0.5"
+            "top_line fvtm:sign_scaled_offset true false 0 0.5"
+            "left_line fvtm:sign_scaled_offset false true 0.5 0"
+            "righ_line fvtm:sign_scaled_offset false true -0.5 0"
+            "bot_line fvtm:sign_scaled_offset true false 0 -0.5"
+        ]
     }
 }
