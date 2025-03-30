@@ -1,0 +1,16 @@
+{
+    "ID": "autobahn_num1",
+    "Name": "Autobahn Number Sign [1]",
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/autobahn_number1.fmf",
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "foreground": "#ffffff"
+        "background": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "foreground fvtm:rgb_channel foreground",
+            "background fvtm:rgb_channel background"
+        ]
+    }
