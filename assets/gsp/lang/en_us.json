@@ -5,5 +5,6 @@
     "item.gsp.arrow": "Generic Arrow", 
     "item.gsp.autobahn_num0": "Autobahn Number Sign [0]", 
     "item.gsp.text": "Generic Text", 
-    "item.gsp.autobahn": "Autobahn Sign"
+    "item.gsp.autobahn": "Autobahn Sign", 
+    "item.gsp.rect_round_dir": "Rect. Directional Sign"
 }
