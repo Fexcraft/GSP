@@ -1,0 +1,15 @@
+[
+	{
+	  "modid": "gsp",
+	  "name": "Generic Signs and Components Pack",
+	  "description": "A pack for FVTM.",
+	  "version": "${version}",
+	  "mcversion": "${mcversion}",
+	  "url": "http://fexcraft.net/",
+	  "authorList": ["FEX___96"],
+	  "credits": "",
+	  "logoFile": "",
+	  "screenshots": [],
+	  "dependencies": ["fcl", "fvtm"]
+	}
+]
