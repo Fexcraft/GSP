@@ -1,0 +1,17 @@
+{ 
+    "ID": "circle", 
+    "Name": "Circle Base Borderless", 
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/circle.fmf",
+    "Base": true,
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "base": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "base fvtm:rgb_channel base",
+            "base fvtm:sign_base"
+        ]
+    }
+}

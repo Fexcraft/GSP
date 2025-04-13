@@ -1,0 +1,20 @@
+{ 
+    "ID": "circle_thin", 
+    "Name": "Circle Base Thin Border", 
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/circle_thin.fmf",
+    "Base": true,
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "base": "#0000ff",
+        "border": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "base fvtm:rgb_channel base",
+            "border fvtm:rgb_channel border",
+            "base fvtm:sign_base",
+            "border fvtm:sign_base"
+        ]
+    }
+}

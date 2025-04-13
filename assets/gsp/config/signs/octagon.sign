@@ -1,0 +1,17 @@
+{ 
+    "ID": "octagon", 
+    "Name": "Octagon Sign Base",
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/octagon.fmf",
+    "Base": true,
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "base": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "base fvtm:rgb_channel base",
+            "base fvtm:sign_base"
+        ]
+    }
+}

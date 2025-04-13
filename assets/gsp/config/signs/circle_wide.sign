@@ -1,0 +1,20 @@
+{ 
+    "ID": "circle_wide", 
+    "Name": "Circle Base Wide Border", 
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/circle_wide.fmf",
+    "Base": true,
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "base": "#ffffff",
+        "border": "#ff0000"
+    },
+    "ModelData":{
+        "Programs":[
+            "base fvtm:rgb_channel base",
+            "border fvtm:rgb_channel border",
+            "base fvtm:sign_base",
+            "border fvtm:sign_base"
+        ]
+    }
+}

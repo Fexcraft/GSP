@@ -1,0 +1,20 @@
+{ 
+    "ID": "stop_base", 
+    "Name": "Stop Sign Base", 
+    "Addon": "gsp",
+    "Model": "gsp:models/sign/stop.fmf",
+    "Base": true,
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "base": "#ff0000",
+        "border": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "base fvtm:rgb_channel base",
+            "border fvtm:rgb_channel border",
+            "base fvtm:sign_base",
+            "border fvtm:sign_base"
+        ]
+    }
+}

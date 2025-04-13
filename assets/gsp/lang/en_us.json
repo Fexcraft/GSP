@@ -6,5 +6,10 @@
     "item.gsp.autobahn_num0": "Autobahn Number Sign [0]", 
     "item.gsp.text": "Generic Text", 
     "item.gsp.autobahn": "Autobahn Sign", 
-    "item.gsp.rect_round_dir": "Rect. Directional Sign"
+    "item.gsp.rect_round_dir": "Rect. Directional Sign", 
+    "item.gsp.stop_base": "Stop Sign Base", 
+    "item.gsp.octagon": "Octagon Sign Base", 
+    "item.gsp.circle_wide": "Circle Base Wide Border", 
+    "item.gsp.circle_thin": "Circle Base Thin Border", 
+    "item.gsp.circle": "Circle Base Borderless"
 }
