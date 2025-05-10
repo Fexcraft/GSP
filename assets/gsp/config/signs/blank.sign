@@ -1,0 +1,17 @@
+{ 
+    "ID": "blank", 
+    "Name": "Blank Textureable Sign", 
+    "Addon": "gsp"
+    "Model": "gsp:models/sign/blank.fmf",
+    "Base": true,
+    "Texture": "fvtm:textures/entity/white.png",
+    "ColorChannels":{
+        "base": "#ffffff"
+    },
+    "ModelData":{
+        "Programs":[
+            "base fvtm:rgb_channel base",
+            "group0 fvtm:sign_base"
+        ]
+    }
+}
