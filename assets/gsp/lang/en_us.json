@@ -11,5 +11,6 @@
     "item.gsp.octagon": "Octagon Sign Base", 
     "item.gsp.circle_wide": "Circle Base Wide Border", 
     "item.gsp.circle_thin": "Circle Base Thin Border", 
-    "item.gsp.circle": "Circle Base Borderless"
+    "item.gsp.circle": "Circle Base Borderless", 
+    "item.gsp.blank": "Blank Textureable Sign"
 }
