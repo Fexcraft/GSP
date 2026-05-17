@@ -13,3 +13,5 @@ item.gsp:circle_thin.name=Circle Base Thin Border
 item.gsp:circle.name=Circle Base Borderless
 item.gsp:blank.name=Blank Textureable Sign
 item.gsp:rect_round_dir_half.name=Rect. Directional Sign (Half Height)
+item.gsp:triangle_rounded_up.name=Triangle Sign [UP] with Rounded Corners
+item.gsp:triangle_rounded_down.name=Triangle Sign [DOWN] with Rounded Corners

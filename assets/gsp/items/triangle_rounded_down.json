@@ -1,0 +1,6 @@
+{ 
+    "model": { 
+        "type": "minecraft:model", 
+        "model": "gsp:item/triangle_rounded_down"
+    }
+}

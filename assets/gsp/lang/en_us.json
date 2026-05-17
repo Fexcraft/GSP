@@ -13,5 +13,7 @@
     "item.gsp.circle_thin": "Circle Base Thin Border", 
     "item.gsp.circle": "Circle Base Borderless", 
     "item.gsp.blank": "Blank Textureable Sign", 
-    "item.gsp.rect_round_dir_half": "Rect. Directional Sign (Half Height)"
+    "item.gsp.rect_round_dir_half": "Rect. Directional Sign (Half Height)", 
+    "item.gsp.triangle_rounded_up": "Triangle Sign [UP] with Rounded Corners", 
+    "item.gsp.triangle_rounded_down": "Triangle Sign [DOWN] with Rounded Corners"
 }

@@ -1,0 +1,19 @@
+{ 
+    "ID": "triangle_rounded_down", 
+    "Name": "Triangle Sign [DOWN] with Rounded Corners", 
+    "Addon": "gsp",
+    "ModelData": {
+        "Programs": [
+            "base fvtm:rgb_channel base",
+            "border fvtm:rgb_channel border"
+        ]
+    },
+    "Model": "gsp:models/sign/triangle_round_down.bob",
+    "Textures": [
+        "fvtm:textures/entity/white.png"
+    ],
+    "ColorChannels": {
+        "base": "#ffffff",
+        "border": "#d30000"
+    }
+}
