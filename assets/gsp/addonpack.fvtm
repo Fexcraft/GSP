@@ -1,13 +1,13 @@
-{
-	"ID": "gsp",
-	"Name": "Generic Signs Pack",
-	"URL": "http://fexcraft.net/download?modid=addon-gsp",
-	"UpdateID": "addon-gsp",
-	"License": "http://fexcraft.net/license?id=mods",
-	"LicenseSummary": "All Rights Reserved",
-	"Dependencies": [],
-	"Authors": [
-		"Ferdinand (FEX___96)"
-	],
-	"Version": "2.4.0"
+{ 
+    "ID": "gsp", 
+    "Name": "Generic Signs Pack", 
+    "URL": "http://fexcraft.net/download?modid=addon-gsp", 
+    "UpdateID": "addon-gsp", 
+    "License": "http://fexcraft.net/license?id=mods", 
+    "LicenseSummary": "All Rights Reserved", 
+    "Dependencies": [], 
+    "Authors": [ 
+        "Ferdinand (FEX___96)"
+    ], 
+    "Version": "2.5.0"
 }

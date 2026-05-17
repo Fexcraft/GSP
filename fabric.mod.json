@@ -1,0 +1,26 @@
+{ 
+    "schemaVersion": 1, 
+    "id": "gsp", 
+    "version": "2.5.0", 
+    "name": "Generic Signs Pack", 
+    "description": "A pack for FVTM", 
+    "authors": [ 
+        "FEX___96"
+    ], 
+    "contact": { 
+        "homepage": "https://fexcraft.net/", 
+        "sources": "https://github.com/Fexcraft/FMT"
+    }, 
+    "license": "ARR", 
+    "environment": "*", 
+    "entrypoints": {}, 
+    "mixins": [], 
+    "depends": { 
+        "fabricloader": ">=0.18.5", 
+        "minecraft": ">=26.1", 
+        "java": ">=25", 
+        "fabric-api": "*", 
+        "fvtm": "*", 
+        "fcl": "*"
+    }
+}
